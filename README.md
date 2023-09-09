@@ -7,8 +7,6 @@
 - ⚡ Hobby - Watching Anime and Playing Cricket.
 - 📫 You can contact me through email - gsmaya.2015@gmail.com
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GaGaNRaJ2003&show_icons=true&count_private=true&theme=radical"]</p>
-
 ### My Social Media Handles
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gagan-raj-singh-52861a247/)
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/gag_aniiii/)
