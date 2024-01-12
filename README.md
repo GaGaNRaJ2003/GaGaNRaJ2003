@@ -1,7 +1,7 @@
 ### Hi Nerd!! 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=GaGaNRaJ2003" alt = "GaGaNRaJ2003" /> </p>
 
-- 👋 I’m Gagan Raj Singh, 2nd year CS & Math Undergraduate at IIIT Delhi.
+- 👋 I’m Gagan, 2nd year CS & Math Undergraduate at IIIT Delhi.
 - 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - ⚡ Hobby - Watching Anime and Playing Cricket.
