@@ -1,11 +1,11 @@
 ### Hi Nerd!! 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=GaGaNRaJ2003" alt = "GaGaNRaJ2003" /> </p>
 
-- 👋 I’m Gagan, 3rd year CS & Math Undergraduate Student at IIIT Delhi.
+- 👋 I’m Gagan, final year CS & Math Undergraduate Student at IIIT Delhi.
 - 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - ⚡ Hobby - Watching Anime and Playing Cricket.
-- 📫 You can contact me through email - gsmaya.2015@gmail.com
+- 📫 You can contact me through email - gagan22183@iiitd.ac.in
 
 ### My Social Media Handles
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gagan-raj-52861a247/)
